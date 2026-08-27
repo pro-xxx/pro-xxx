@@ -1,8 +1,6 @@
 ## Hi Hello 👋
 
-# Hey, I'm Muhaemin 👋
-
-I'm **Muhaemin**, a software developer who enjoys building things, exploring new technologies, and continuously learning along the way.
+I'm **muhaemin**, a software developer who enjoys building things, exploring new technologies, and continuously learning along the way.
 
 ### About Me
 
@@ -12,10 +10,7 @@ I'm **Muhaemin**, a software developer who enjoys building things, exploring new
 - 🐛 I genuinely enjoy finding and fixing bugs
 - 📫 Reach me at `muhaemin[at]gmail[dot]com`
 
-### A little more about me
 
-I'm highly adaptable to new environments and technologies. I enjoy taking on challenges, understanding how things work, and turning problems into solutions.
-
-For me, web development is a never-ending journey of **learning, building, breaking, and improving**.
+I enjoy learning new technologies, solving problems, and building things.
 
 > Keep learning. Keep building. Keep improving.
