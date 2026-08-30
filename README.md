@@ -1,6 +1,6 @@
 Hi Hello 👋
 
-I'm **muhaemin**, a software developer who enjoys building things, exploring new technologies, and continuously learning along the way.
+I'm **muhaemin**, a web developer who enjoys building things, exploring new technologies, and continuously learning along the way.
 
 - 🔭 Currently working on **#121 — 667 Days of Coding**
 - 🌱 Currently learning **Web Components** and improving my software development skills
